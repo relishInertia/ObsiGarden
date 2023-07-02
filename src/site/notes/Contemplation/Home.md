@@ -15,4 +15,4 @@ id1([Start]):::class1-->id2(OMG)-->id3{BLG}-->tier0{{JDG}}-->parent(("#9999; LPL
     linkStyle 0 stroke:#963,stroke-width:4px
 ```
 ## Notes  List
-- [[Contemplation/Books/去依附\|去依附]]
+- [[Contemplation/Books/去依附\|《去依附》]]
