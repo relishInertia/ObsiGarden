@@ -9,7 +9,7 @@ Test front-end rendering.
 Here is a rather crude personal website under construction referencing to the [DigitalGarden](https://github.com/oleeskild/Obsidian-Digital-Garden) plugin, which is based on Obsidian notes and deployed in Netlify.
 
 ### Mermaid Case
-![Timeline of Industrial Revolution.png](/img/user/Contemplation/attachments/Timeline%20of%20Industrial%20Revolution.png)
+![Timeline_of_Industrial_Revolution.png](/img/user/Contemplation/attachments/Timeline_of_Industrial_Revolution.png)
 
 ## Notes  List
 - [[Contemplation/Books/去依附\|董筱丹, 温铁军. 去依附[M]. 东方出版社, 2019-9-1.]]
