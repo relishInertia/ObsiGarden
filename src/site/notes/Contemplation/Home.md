@@ -4,7 +4,9 @@
 
 ## About me
 ### Introduction
-~~这里是中国中央电视台。重复，这里是中国中央电视台。~~ 使用 $latex$ 测试网站渲染。$$ a^2 + b^2 = c^2 $$ 测试结束。
+Test front-end rendering. 
+~~这里是中国中央电视台。重复，这里是中国中央电视台。~~ This is an inline $e^{2i\pi} = 1$ math expression.
+$$ a^2 + b^2 = c^2 $$ Test end。
 
 ### Mermaid Case
 ```mermaid
@@ -15,4 +17,4 @@ id1([Start]):::class1-->id2(OMG)-->id3{BLG}-->tier0{{JDG}}-->parent(("#9999; LPL
     linkStyle 0 stroke:#963,stroke-width:4px
 ```
 ## Notes  List
-- [[Contemplation/Books/去依附\|《去依附》]]
+- [[Contemplation/Books/去依附\|董筱丹, 温铁军. 去依附[M]. 东方出版社, 2019-9-1.]]
