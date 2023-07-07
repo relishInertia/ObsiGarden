@@ -9,21 +9,6 @@ Test front-end rendering.
 Here is a rather crude personal website under construction referencing to the [DigitalGarden](https://github.com/oleeskild/Obsidian-Digital-Garden) plugin, which is based on Obsidian notes and deployed in Netlify.
 
 ### Mermaid Case
-```mermaid
-quadrantChart
-    title Reach and engagement of campaigns
-    x-axis Low Reach --> High Reach
-    y-axis Low Engagement --> High Engagement
-    quadrant-1 We should expand
-    quadrant-2 Need to promote
-    quadrant-3 Re-evaluate
-    quadrant-4 May be improved
-    Campaign A: [0.3, 0.6]
-    Campaign B: [0.45, 0.23]
-    Campaign C: [0.57, 0.69]
-    Campaign D: [0.78, 0.34]
-    Campaign E: [0.40, 0.34]
-    Campaign F: [0.35, 0.78]
-```
+![Pasted image 20230707231447.png](/img/user/Contemplation/Pasted%20image%2020230707231447.png)
 ## Notes  List
 - [[Contemplation/Books/去依附\|董筱丹, 温铁军. 去依附[M]. 东方出版社, 2019-9-1.]]
