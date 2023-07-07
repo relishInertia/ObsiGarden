@@ -5,10 +5,10 @@
 ## About me
 ### Introduction
 Test front-end rendering. 
-~~这里是中国中央电视台。重复，这里是中国中央电视台。~~ This is an inline $e^{2i\pi} = 1$ math expression.
-$$ a^2 + b^2 = c^2 $$ Test end。
+~~这里是中国中央电视台。重复，这里是中国中央电视台。~~ This is an inline $e^{2i\pi} = 1$ MathJax expression.
 
 ### Mermaid Case
+
 ```mermaid
 flowchart LR
 id1([Start]):::class1-->id2(OMG)-->id3{BLG}-->tier0{{JDG}}-->parent(("#9999; LPL"))
